@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://*doubleclick.net/*" }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://googleadservices.com/*" }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://fonts.gstatic.com/*" }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.googletagmanager.com/*" }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.googletagservices.com/*" }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://sdk.irctc.corover.ai/*" }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.izooto.com/*" }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.unibotscdn.com/*" }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.google-analytics.com/*" }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.truenotify.co.in/*" }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*:/cdn.jsdelivr.net/*" }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.irctc.co.in/nget/assets/images*" }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.irctc.co.in/nget/home_page_banner*" }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cubecdn.nlpcaptcha.in/*" }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://*.nlpcaptcha.in/*" }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://*.nlpcaptcha.in/*" }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://www.irctc.co.in/nget/assets/*" }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "*://www.irctc.co.in/eticketing/protected/mapps1/recentTxnsDetails*"
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.jsdelivr.net/npm/primeng@9.0.5/resources/themes/nova-light/fonts/*" }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.jsdelivr.net/npm/font-awesome@4.7.0/fonts/*" }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.jsdelivr.net/npm/primeng@9.0.5/resources/themes/nova-light/fonts/*" }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": { "urlFilter": "*://cdn.jsdelivr.net/npm/primeng@9.0.5/resources/themes/nova-light/fonts/*" }
+  }
+]
+
